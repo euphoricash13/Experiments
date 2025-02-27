@@ -6,3 +6,4 @@
 "Updated on 2025-02-14T16:58:35.000Z\nProject: AuthShield\nFile: schema.sql" 
 "Updated on 2025-02-18T17:05:51.000Z\nProject: AuthShield\nFile: schema.sql" 
 "Updated on 2025-02-25T18:23:49.000Z\nProject: AuthShield\nFile: schema.sql" 
+"Updated on 2025-02-27T19:08:03.000Z\nProject: AuthShield\nFile: schema.sql" 
