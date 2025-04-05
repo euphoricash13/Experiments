@@ -7,3 +7,4 @@
 "Updated on 2025-03-04T15:28:03.000Z\nProject: TaskFlow\nFile: schema.sql" 
 "Updated on 2025-03-15T17:31:29.000Z\nProject: TaskFlow\nFile: schema.sql" 
 "Updated on 2025-03-27T21:38:08.000Z\nProject: TaskFlow\nFile: schema.sql" 
+"Updated on 2025-04-05T18:01:10.000Z\nProject: TaskFlow\nFile: schema.sql" 
