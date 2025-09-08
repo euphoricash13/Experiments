@@ -13,3 +13,4 @@
 "Updated on 2025-08-16T16:34:38.000Z\nProject: CloudSync\nFile: schema.sql" 
 "Updated on 2025-08-20T17:37:09.000Z\nProject: CloudSync\nFile: schema.sql" 
 "Updated on 2025-09-03T22:09:42.000Z\nProject: CloudSync\nFile: schema.sql" 
+"Updated on 2025-09-08T18:51:33.000Z\nProject: CloudSync\nFile: schema.sql" 
