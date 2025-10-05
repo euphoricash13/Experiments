@@ -15,3 +15,4 @@
 "Updated on 2025-09-25T14:24:20.000Z\nProject: AuthShield\nFile: specs.md" 
 "Updated on 2025-10-01T21:56:14.000Z\nProject: AuthShield\nFile: specs.md" 
 "Updated on 2025-10-02T18:57:31.000Z\nProject: AuthShield\nFile: specs.md" 
+"Updated on 2025-10-05T18:50:11.000Z\nProject: AuthShield\nFile: specs.md" 
