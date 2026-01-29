@@ -22,3 +22,4 @@
 "Updated on 2025-12-17T21:55:39.000Z\nProject: TaskFlow\nFile: schema.sql" 
 "Updated on 2026-01-06T22:53:21.000Z\nProject: TaskFlow\nFile: schema.sql" 
 "Updated on 2026-01-11T15:49:53.000Z\nProject: TaskFlow\nFile: schema.sql" 
+"Updated on 2026-01-29T18:40:49.000Z\nProject: TaskFlow\nFile: schema.sql" 
